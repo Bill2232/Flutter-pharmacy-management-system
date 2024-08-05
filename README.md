@@ -5,7 +5,7 @@ the app is not completed yet...
 
 by:
 ```
-Name  : Mustafa ahmed , belal akrem , bervana
+Name  : Mustafa ahmed , Belal akrem
 
 ```
 
